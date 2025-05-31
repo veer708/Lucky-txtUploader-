@@ -24,7 +24,7 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 ## Deploy Via Buttons
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/nikhilsainiop/saini-txt-direct)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/veer708/Lucky-txtUploader-.git)
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/nikhilsainiop/saini-txt-direct)
 
@@ -37,29 +37,9 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 
 
-Saini bot:
-Free courses
-https://t.me/+MnxII-5_qqY5ZjE1
 
-Backup 
-https://t.me/+hz_70ZhH7DBmZTVl
 
-channel link
-https://t.me/+HGm5x31cuhZkMDE1
-https://t.me/+MdZ2996M2G43MWFl
-
-Group
- https://t.me/+-UUAslfhnugyZjZl
-
-All in one Batch 
-https://t.me/+GngX9aa8SHo5NmNl
-
-Batch in batch wise group
-https://t.me/+pksvjm_eoxZhZTNl
-
-Bot username
-@saini_contact_bot
-@saini_file_store_bot
+Bot use
 
 
 Repo 
